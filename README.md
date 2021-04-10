@@ -40,6 +40,25 @@ https://www.youtube.com/watch?v=UkXMP89B2pM
 
 -------
 
+## Why Edge Computing is so important for AI
+https://towardsdatascience.com/why-edge-computing-is-so-important-for-ai-e4695d4e7960
+
+NVIDIA Jetson Nano and Raspberry Pi 4 are two Single-Board Computers (SBC) whose features are extremely similar. 
+
+While they are built with ARM processors, respectively with a Quad-core ARM Cortex-A72 64-bit @ 1.5 GHz and a Quad-Core ARM Cortex-A57 64-bit @ 1.42 GHz, the biggest difference between these two boards is with the NVIDIA Jetson Nano including a higher performant, more capable GPU. 
+
+The NVIDIA board includes a Maxwell microarchitecture with 128 CUDA cores @ 921 Mhz. 
+
+CUDA (an acronym for Compute Unified Device Architecture) is a parallel processing hardware architecture created by NVIDIA, on which software developers can write applications capable of performing parallel computing on the GPUs of NVIDIA video cards. 
+
+This turns out to be a great advantage for Artificial Intelligence computation and mostly for making inferences.
+
+
+
+
+
+-------
+
 
 
 
