@@ -34,6 +34,12 @@ Get started today with the Jetson AGX Xavier Developer Kit.
       
 -------
 
+## Machine Learning 101: Naive Bayes Classifier (NVIDIA Jetson Xavier NX Review)
+https://www.youtube.com/watch?v=UkXMP89B2pM
+
+
+-------
+
 
 
 
