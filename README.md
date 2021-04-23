@@ -64,6 +64,10 @@ This turns out to be a great advantage for Artificial Intelligence computation a
 -------
 
 
+## JETSON TX2 DEVELOPER KIT
+https://developer.download.nvidia.com/embedded/L4T/r32-3-1_Release_v1.0/jetson_tx2_developer_kit_user_guide.pdf?ISTiJ7_0HeEXUCk-ef-r6997ut19MkMnbYXBQbjHRg_hzmkog4DOsvAfZaoqE3uuZxXZiTJAG2egCP2U53fJTPQ5xrIssc8DpYzLDpc7yGnd1ojerZjE7Ep4ros6iPmB2jS5afrIaJQHv4CO0Y-1vZtBAd2t2ioTDVrLPhYl8pJ3DG5GjPB1OA
+
+
 
 
       
