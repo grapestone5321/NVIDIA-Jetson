@@ -100,7 +100,11 @@ We'll show you the latest capabilities of DeepStream SDK and also demonstrate re
 ### Download DeepStream SDK:
 developer.nvidia.com/deepstream-sdk
 
+-------
 
+
+### NVIDIA L4T
+https://developer.nvidia.com/embedded/linux-tegra
 
 -------
 
