@@ -100,6 +100,13 @@ We'll show you the latest capabilities of DeepStream SDK and also demonstrate re
 ### Download DeepStream SDK:
 developer.nvidia.com/deepstream-sdk
 
+
+
+-------
+
+### DeepStream SDK — Accelerating Real Time AI Based Video and Image Analytics
+https://www.youtube.com/watch?v=ANAljY680mE
+
 -------
 
 
