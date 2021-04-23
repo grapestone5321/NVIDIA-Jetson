@@ -100,6 +100,13 @@ We'll show you the latest capabilities of DeepStream SDK and also demonstrate re
 ### Download DeepStream SDK:
 developer.nvidia.com/deepstream-sdk
 
+- Download DeepStream SDK at: https://developer.nvidia.com/deepstre...​
+
+- Read the DeepStream SDK docs here: https://docs.nvidia.com/metropolis/in...​
+
+- Questions? Post them on our DevTalk forum: https://devtalk.nvidia.com/default/bo...​
+
+https://developer.nvidia.com/embedded...​
 
 
 -------
