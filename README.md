@@ -84,3 +84,24 @@ The SDK Manager that runs on your PC will then flash the latest software and Ubu
 ### For more info, see the SDK Manager documentation here: 
 https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html 
 
+
+### Implementing Real-time Vision AI Apps Using NVIDIA DeepStream SDK
+https://www.youtube.com/watch?v=hSegX0P170s
+
+
+Learn how companies around the world are modernizing their existing infrastructure with IoT sensors, such as cameras, to extract rich insights. 
+
+Whether it’s a patient fall detection monitoring system in a hospital, understanding how traffic flows through a city, or a retailer looking to understand customer purchasing sentiments and behavior— real-time video analysis plays a pivotal role. 
+
+Learn how various companies are building high-performance apps using DeepStream SDK for real-time video and image understanding. 
+
+We'll show you the latest capabilities of DeepStream SDK and also demonstrate reference apps built using DeepStream SDK, Transfer Learning Toolkit, and Vision AI pre-trained models.
+
+### Download DeepStream SDK:
+developer.nvidia.com/deepstream-sdk
+
+
+
+-------
+
+
