@@ -71,3 +71,16 @@ https://developer.download.nvidia.com/embedded/L4T/r32-3-1_Release_v1.0/jetson_t
 
 
       
+### What to do (step by step) to upgrade ubuntu 16.04 to 18.04 on jetson tx2 ?
+https://forums.developer.nvidia.com/t/what-to-do-step-by-step-to-upgrade-ubuntu-16-04-to-18-04-on-jetson-tx2/77668
+
+
+To upgrade your TX2, you should reflash it with JetPack using the SDK Manager. 
+
+The SDK Manager is designed to run on your PC (running Ubuntu 16.04 x86_64 or Ubuntu 18.04 x86_64), and it will connect to your Jetson board over Micro-USB and Ethernet. 
+
+The SDK Manager that runs on your PC will then flash the latest software and Ubuntu 18.04 aarch64 OS to your Jetson.
+
+### For more info, see the SDK Manager documentation here: 
+https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html 
+
