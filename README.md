@@ -122,4 +122,26 @@ https://developer.nvidia.com/embedded/linux-tegra
 
 -------
 
+## NVIDIA JETPACK
+
+### NVIDIA JetPack SDK
+https://docs.nvidia.com/jetson/jetpack/index.html
+
+https://docs.nvidia.com/jetson/jetpack/introduction/index.html
+
+https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html
+
+https://docs.nvidia.com/jetson/jetpack/release-notes/index.html#os
+
+
+-------
+
+## NVIDIA Jetson SDK Manager - JetPack 4.2
+https://www.youtube.com/watch?v=s1QDsa6SzuQ
+
+
+
+-------
+
+
 
